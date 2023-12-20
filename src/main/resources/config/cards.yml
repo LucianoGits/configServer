@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to LnBanking cards services API(development)"
+  message: "Welcome to LnBanking cards services API(dev)"
   contactDetails:
     name: "Luciano devs - Developer"
     email: "lucianodevs@lnbanking.com"
