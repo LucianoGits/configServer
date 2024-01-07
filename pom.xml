@@ -34,6 +34,14 @@
 			<artifactId>spring-cloud-config-server</artifactId>
 		</dependency>
 
+		<!--		service discovery-->
+
+<!--		<dependency>-->
+<!--			<groupId>org.springframework.cloud</groupId>-->
+<!--			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>-->
+<!--		</dependency>-->
+
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
@@ -59,7 +67,7 @@
 				<version>3.4.0</version>
 				<configuration>
 					<to>
-						<image>lucianodevs/${project.artifactId}:1.0</image>
+						<image>lucianodevs/${project.artifactId}:1.1</image>
 					</to>
 				</configuration>
 			</plugin>
